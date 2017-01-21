@@ -1,0 +1,24 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-image: url(../images/skrfon.jpg);
+    background-color: #696969;
+    background-repeat: no-repeat;
+    background-position: center top;
+    background-attachment: fixed;
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        background-size: cover;
+}
+.text{
+    font-family: Arial, Calibri, Tahoma;
+    font-size: 14;
+    color: #000000;
+    padding-top: 0;
+    padding-bottom: 0;
+    padding-right: 130;
+    padding-left: 130;
+    
+                  
+} 
